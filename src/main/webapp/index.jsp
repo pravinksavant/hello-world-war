@@ -8,6 +8,6 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from 
+		You are coming from source
 		<%= request.getRemoteAddr()  %></p>
 </body>
