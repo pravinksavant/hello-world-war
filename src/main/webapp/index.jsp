@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Welcome To DevOps World.......!</h1>
+	<h1>Welcome To DevOps...!</h1>
 	<p>
 		Current Date and Time
 		<%= new java.util.Date() %></p>
